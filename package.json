@@ -1,0 +1,19 @@
+{
+  "name": "vue-design-editor-static",
+  "version": "0.1.0",
+  "private": true,
+  "description": "vue-design-editor的字体、模板、SVG、图片等素材",
+  "keywords": [
+    "fabric",
+    "vue",
+    "vue3",
+    "element-plus",
+    "图片编辑器"
+  ],
+  "scripts": {
+    "dev": "node ./getImage.js"
+  },
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
